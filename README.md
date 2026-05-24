@@ -1,4 +1,5 @@
 📊 Customer Churn Analysis & Retention Strategy
+
 📌 Project Overview
 
 This project analyzes customer behavior and churn patterns using Python and Power BI to identify high-risk customers, understand churn drivers, and provide actionable business recommendations.
